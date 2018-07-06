@@ -14,7 +14,6 @@
 
 -wikipedia
 
-
 -wolframalpha(After installation you should do SignUp to get the API key)
 
 -Install the setup file in repository so that your assistant can speak.After installation add its path to Environment Variables/PATH
@@ -24,7 +23,9 @@
 
 ### Reference:-
 *-Wikipedia
+
 -Wolframalpha
+
 -Google Speech Recognition*
 
 
