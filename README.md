@@ -8,25 +8,25 @@
 
 
 ### Installation:-
-*To Work with these code you should have following dependencies installed on python2 or python3:
+*To Work with these code you should have following dependencies installed on python2 or python3:*
 
--wxPython
+*-wxPython*
 
--wikipedia
+*-wikipedia*
 
--wolframalpha(After installation you should do SignUp to get the API key)
+*-wolframalpha(After installation you should do SignUp to get the API key)*
 
--Install the setup file in repository so that your assistant can speak.After installation add its path to Environment Variables/PATH
+*-Install the setup file in repository so that your assistant can speak.After installation add its path to Environment Variables/PATH*
 
--After installation of all dependencies add the API key to the files where i have mentioned (YOUR_API_ID)*
+*-After installation of all dependencies add the API key to the files where i have mentioned (YOUR_API_ID)*
 
 
 ### Reference:-
-*-Wikipedia
+*-Wikipedia*
 
--Wolframalpha
+*-Wolframalpha*
 
--Google Speech Recognition*
+*-Google Speech Recognition*
 
 
 ### I would love if any make it better by modifying it.
