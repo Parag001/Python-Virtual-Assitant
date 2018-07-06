@@ -1,5 +1,6 @@
 # Python Based Virtual Assistant
 
+![](Screenshot.png)
 
 ### Overview:-
 *There are total 8 complete coded files of python which is used to build the assistant.There is one file (Assistant-Complete.py) which is the final file that I have created.*
