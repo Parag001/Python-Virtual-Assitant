@@ -9,10 +9,16 @@
 
 ### Installation:-
 *To Work with these code you should have following dependencies installed on python2 or python3:
+
 -wxPython
+
 -wikipedia
+
+
 -wolframalpha(After installation you should do SignUp to get the API key)
+
 -Install the setup file in repository so that your assistant can speak.After installation add its path to Environment Variables/PATH
+
 -After installation of all dependencies add the API key to the files where i have mentioned (YOUR_API_ID)*
 
 
